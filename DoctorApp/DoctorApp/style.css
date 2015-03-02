@@ -1,0 +1,20 @@
+.document-title{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.document-title1{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.document-content{
+    margin-top: 60px;
+    font-size: 12px;
+}
+
+.document-content>h4{
+    margin-top: 60px;
+}
